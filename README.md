@@ -1,0 +1,3 @@
+# react
+react项目
+此项目是在node.js以jade模板引擎的基础上进行迁移的react项目，即react和jade模板引擎的混合项目
